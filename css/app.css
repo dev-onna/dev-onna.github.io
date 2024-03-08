@@ -25,3 +25,10 @@ title {
     font-weight: bold;
     color: #333;
 }
+quote {
+    font-family: cursive;
+    font-size: larger;
+    font-weight: 500;
+    font-style: oblique;
+    color: gold;
+}
