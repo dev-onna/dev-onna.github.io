@@ -2,21 +2,21 @@ p {
     font-family: Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #333;
+    color: #19c9ba;
 }
 
 h1 {
     font-family: Arial, sans-serif;
     font-size: 40px;
     font-weight: bold;
-    color: #0066cc;
+    color: #480abc;
 }
 
 h2 {
     font-family: Arial, sans-serif;
     font-size: 32px;
     font-weight: bold;
-    color: hwb(273 0% 20%);
+    color: hsl(249, 70%, 68%);
 }
 
 title {
